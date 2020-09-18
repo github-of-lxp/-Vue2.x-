@@ -200,3 +200,4 @@ new Vue({
 
 ```
 ### 最后是项目效果图
+![image](https://github.com/github-of-lxp/Vue2.x-take-out-food-system/blob/master/1600420933919.gif)
